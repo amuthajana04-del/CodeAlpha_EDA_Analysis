@@ -1,0 +1,29 @@
+CODEALPHA TASK 2 - BUSINESS INSIGHTS
+=============================================
+
+Q1. Highest Sales Product
+Product: Laptop
+Sales: 9,402,278.00
+
+Q2. Highest Sales City
+City: Bangalore
+Sales: 3,537,570.00
+
+Q3. Highest Sales Month
+Month: 5
+Sales: 2,488,650.00
+
+Q4. Highest Sales Category
+Category: Electronics
+Sales: 20,000,470.00
+
+Q5. Average Order Value
+Average: 44,087.13
+
+Q6. Lowest Sales Product
+Product: Mouse
+Sales: 207,684.00
+
+Q7. Electronics Sales Percentage
+Percentage: 90.73%
+

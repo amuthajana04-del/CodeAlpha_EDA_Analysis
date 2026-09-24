@@ -1,0 +1,52 @@
+CODEALPHA TASK 2 - EDA REPORT
+========================================
+
+Total Records: 500
+Total Sales: 22043564.00
+Total Quantity Sold: 1541
+
+Sales by Product:
+Product
+Laptop          9402278
+Mobile Phone    4091448
+Tablet          3662934
+Monitor         2843810
+Smart Watch      912718
+Headphones       522976
+Keyboard         399716
+Mouse            207684
+Name: Sales, dtype: int64
+
+Sales by Category:
+Category
+Electronics    20000470
+Accessories     2043094
+Name: Sales, dtype: int64
+
+Sales by City:
+City
+Bangalore     3537570
+Tirupur       3229486
+Coimbatore    3224385
+Trichy        3038567
+Madurai       2469154
+Erode         2424956
+Salem         2360094
+Chennai       1759352
+Name: Sales, dtype: int64
+
+Monthly Sales:
+Month
+1     1163849
+2     2005990
+3     2130228
+4     1345584
+5     2488650
+6     1401884
+7     2105109
+8     2356811
+9     1411664
+10    2222502
+11    1975794
+12    1435499
+Name: Sales, dtype: int64

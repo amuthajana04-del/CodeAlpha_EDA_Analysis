@@ -1,0 +1,26 @@
+CODEALPHA INTERNSHIP - TASK 2
+EXPLORATORY DATA ANALYSIS REPORT
+==================================================
+
+1. DATASET OVERVIEW
+Total Rows: 500
+Total Columns: 11
+Total Sales: 22,043,564.00
+Total Quantity Sold: 1541
+
+2. DATA QUALITY
+Missing Values: 0
+Duplicate Rows: 0
+
+3. KEY BUSINESS INSIGHTS
+Highest Sales Product: Laptop
+Highest Sales City: Bangalore
+Highest Sales Month: 5
+Highest Sales Category: Electronics
+Average Order Value: 44,087.13
+Lowest Sales Product: Mouse
+Electronics Sales Percentage: 90.73%
+
+4. CONCLUSION
+The exploratory analysis identified sales patterns across products, cities, categories, and months.
+The generated charts support the interpretation of the dataset and business insights.
