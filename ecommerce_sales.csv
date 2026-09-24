@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Product,Category,City,Quantity,Unit_Price,Sales
+1,2025-05-21,Mobile Phone,Electronics,Chennai,2,24957,49914
+2,2025-12-13,Headphones,Accessories,Coimbatore,5,2178,10890
+3,2025-01-16,Tablet,Electronics,Chennai,1,17947,17947
+4,2025-10-15,Keyboard,Accessories,Chennai,2,2466,4932
+5,2025-08-18,Tablet,Electronics,Erode,5,18069,90345
+6,2025-12-24,Laptop,Electronics,Tirupur,4,55196,220784
+7,2025-04-21,Mouse,Accessories,Tirupur,3,509,1527
+8,2025-02-19,Mobile Phone,Electronics,Salem,3,25204,75612
+9,2025-08-24,Mouse,Accessories,Chennai,5,555,2775
+10,2025-10-10,Tablet,Electronics,Coimbatore,3,18787,56361
+11,2025-12-27,Monitor,Electronics,Erode,1,11593,11593
+12,2025-02-10,Keyboard,Accessories,Bangalore,2,1206,2412
+13,2025-08-21,Tablet,Electronics,Bangalore,3,17833,53499
+14,2025-04-18,Monitor,Electronics,Madurai,3,12937,38811
+15,2025-10-01,Mobile Phone,Electronics,Tirupur,2,24834,49668
+16,2025-05-19,Smart Watch,Accessories,Salem,5,4949,24745
+17,2025-04-28,Monitor,Electronics,Chennai,1,12146,12146
+18,2025-02-03,Tablet,Electronics,Bangalore,2,18661,37322
+19,2025-12-02,Monitor,Electronics,Erode,4,12310,49240
+20,2025-05-16,Smart Watch,Accessories,Tirupur,2,5005,10010
+21,2025-10-26,Mouse,Accessories,Salem,4,1041,4164
+22,2025-09-18,Keyboard,Accessories,Tirupur,4,1186,4744
+23,2025-03-20,Laptop,Electronics,Coimbatore,2,55893,111786
+24,2025-07-17,Tablet,Electronics,Coimbatore,4,18720,74880
+25,2025-10-11,Smart Watch,Accessories,Bangalore,1,5893,5893
+26,2025-11-25,Mobile Phone,Electronics,Bangalore,3,24728,74184
+27,2025-03-22,Mouse,Accessories,Salem,4,306,1224
+28,2025-09-17,Mouse,Accessories,Tirupur,1,1580,1580
+29,2025-03-20,Mouse,Accessories,Erode,3,630,1890
+30,2025-09-08,Laptop,Electronics,Madurai,1,54729,54729
+31,2025-05-03,Monitor,Electronics,Bangalore,1,11993,11993
+32,2025-09-06,Mobile Phone,Electronics,Coimbatore,1,25590,25590
+33,2025-12-04,Headphones,Accessories,Tirupur,4,3125,12500
+34,2025-09-28,Headphones,Accessories,Bangalore,5,2866,14330
+35,2025-06-09,Keyboard,Accessories,Erode,4,2375,9500
+36,2025-09-22,Monitor,Electronics,Trichy,4,11747,46988
+37,2025-02-02,Keyboard,Accessories,Erode,3,1043,3129
+38,2025-01-04,Keyboard,Accessories,Erode,1,2449,2449
+39,2025-02-04,Laptop,Electronics,Erode,1,55176,55176
+40,2025-05-23,Mobile Phone,Electronics,Erode,4,24938,99752
+41,2025-05-05,Headphones,Accessories,Trichy,4,2833,11332
+42,2025-02-19,Keyboard,Accessories,Coimbatore,4,1725,6900
+43,2025-08-28,Tablet,Electronics,Salem,1,18879,18879
+44,2025-07-26,Mobile Phone,Electronics,Chennai,3,24723,74169
+45,2025-04-08,Keyboard,Accessories,Erode,5,1918,9590
+46,2025-04-04,Headphones,Accessories,Salem,3,2947,8841
+47,2025-08-15,Keyboard,Accessories,Coimbatore,5,1200,6000
+48,2025-02-17,Laptop,Electronics,Chennai,2,54840,109680
+49,2025-09-04,Tablet,Electronics,Trichy,2,18321,36642
+50,2025-07-14,Laptop,Electronics,Tirupur,1,55299,55299
+51,2025-05-27,Mouse,Accessories,Trichy,4,1726,6904
+52,2025-04-08,Smart Watch,Accessories,Tirupur,3,4945,14835
+53,2025-06-10,Laptop,Electronics,Chennai,1,54602,54602
+54,2025-01-30,Smart Watch,Accessories,Tirupur,5,4664,23320
+55,2025-11-01,Headphones,Accessories,Coimbatore,1,3382,3382
+56,2025-03-03,Keyboard,Accessories,Salem,5,1504,7520
+57,2025-08-03,Laptop,Electronics,Coimbatore,5,55657,278285
+58,2025-04-15,Monitor,Electronics,Bangalore,3,11988,35964
+59,2025-03-09,Mouse,Accessories,Salem,3,1236,3708
+60,2025-01-05,Monitor,Electronics,Coimbatore,4,12772,51088
+61,2025-10-03,Mobile Phone,Electronics,Coimbatore,2,25536,51072
+62,2025-06-28,Mouse,Accessories,Tirupur,1,800,800
+63,2025-03-22,Monitor,Electronics,Bangalore,4,12612,50448
+64,2025-12-08,Mouse,Accessories,Chennai,5,913,4565
+65,2025-05-16,Mobile Phone,Electronics,Tirupur,1,24719,24719
+66,2025-05-25,Headphones,Accessories,Bangalore,5,2431,12155
+67,2025-12-18,Monitor,Electronics,Erode,3,12535,37605
+68,2025-01-27,Smart Watch,Accessories,Bangalore,1,5799,5799
+69,2025-01-23,Tablet,Electronics,Bangalore,1,18183,18183
+70,2025-03-24,Headphones,Accessories,Bangalore,4,3129,12516
+71,2025-02-27,Tablet,Electronics,Chennai,1,18915,18915
+72,2025-07-09,Headphones,Accessories,Chennai,5,3131,15655
+73,2025-03-07,Headphones,Accessories,Salem,1,2631,2631
+74,2025-07-03,Monitor,Electronics,Chennai,2,12896,25792
+75,2025-07-01,Keyboard,Accessories,Coimbatore,5,1832,9160
+76,2025-03-25,Headphones,Accessories,Erode,2,2844,5688
+77,2025-06-20,Laptop,Electronics,Tirupur,4,55871,223484
+78,2025-03-23,Keyboard,Accessories,Bangalore,1,1783,1783
+79,2025-04-24,Laptop,Electronics,Trichy,2,55442,110884
+80,2025-04-27,Monitor,Electronics,Bangalore,2,11548,23096
+81,2025-06-18,Keyboard,Accessories,Salem,3,1142,3426
+82,2025-11-25,Mouse,Accessories,Madurai,5,1118,5590
+83,2025-03-01,Monitor,Electronics,Chennai,3,11865,35595
+84,2025-02-25,Mouse,Accessories,Chennai,5,1189,5945
+85,2025-08-12,Monitor,Electronics,Madurai,5,12547,62735
+86,2025-10-23,Mobile Phone,Electronics,Salem,2,25021,50042
+87,2025-01-01,Laptop,Electronics,Salem,5,55602,278010
+88,2025-08-09,Keyboard,Accessories,Madurai,1,2360,2360
+89,2025-12-06,Monitor,Electronics,Madurai,1,12974,12974
+90,2025-12-08,Mouse,Accessories,Bangalore,4,968,3872
+91,2025-10-11,Tablet,Electronics,Bangalore,2,17892,35784
+92,2025-12-13,Tablet,Electronics,Salem,2,18760,37520
+93,2025-10-08,Mouse,Accessories,Salem,1,922,922
+94,2025-08-09,Mouse,Accessories,Erode,5,1542,7710
+95,2025-08-15,Monitor,Electronics,Trichy,4,12883,51532
+96,2025-03-28,Keyboard,Accessories,Trichy,1,1581,1581
+97,2025-05-01,Monitor,Electronics,Coimbatore,3,11960,35880
+98,2025-01-13,Keyboard,Accessories,Tirupur,1,1501,1501
+99,2025-08-22,Smart Watch,Accessories,Coimbatore,4,5789,23156
+100,2025-09-11,Keyboard,Accessories,Salem,4,1499,5996
+101,2025-02-24,Headphones,Accessories,Chennai,4,2448,9792
+102,2025-01-26,Headphones,Accessories,Trichy,5,2510,12550
+103,2025-03-10,Mobile Phone,Electronics,Trichy,4,25867,103468
+104,2025-11-10,Monitor,Electronics,Trichy,5,12373,61865
+105,2025-09-01,Smart Watch,Accessories,Tirupur,4,5030,20120
+106,2025-09-24,Keyboard,Accessories,Bangalore,4,2283,9132
+107,2025-08-14,Keyboard,Accessories,Bangalore,1,2461,2461
+108,2025-05-20,Mouse,Accessories,Erode,3,954,2862
+109,2025-03-19,Mobile Phone,Electronics,Tirupur,2,25284,50568
+110,2025-02-02,Headphones,Accessories,Erode,4,2834,11336
+111,2025-08-01,Monitor,Electronics,Trichy,1,11923,11923
+112,2025-10-27,Tablet,Electronics,Salem,1,18679,18679
+113,2025-01-04,Tablet,Electronics,Trichy,3,18111,54333
+114,2025-10-03,Tablet,Electronics,Salem,5,18735,93675
+115,2025-04-23,Keyboard,Accessories,Trichy,3,1892,5676
+116,2025-07-19,Smart Watch,Accessories,Chennai,3,5869,17607
+117,2025-08-28,Tablet,Electronics,Tirupur,2,18774,37548
+118,2025-10-31,Laptop,Electronics,Salem,5,55857,279285
+119,2025-11-26,Laptop,Electronics,Coimbatore,4,54777,219108
+120,2025-01-26,Smart Watch,Accessories,Tirupur,3,5276,15828
+121,2025-08-21,Monitor,Electronics,Erode,3,12191,36573
+122,2025-08-04,Tablet,Electronics,Bangalore,3,17667,53001
+123,2025-10-04,Smart Watch,Accessories,Chennai,1,5216,5216
+124,2025-11-30,Keyboard,Accessories,Coimbatore,1,1063,1063
+125,2025-01-11,Keyboard,Accessories,Erode,5,1312,6560
+126,2025-08-31,Keyboard,Accessories,Tirupur,1,2155,2155
+127,2025-12-25,Keyboard,Accessories,Trichy,3,1755,5265
+128,2025-03-25,Headphones,Accessories,Coimbatore,3,2221,6663
+129,2025-10-22,Laptop,Electronics,Bangalore,4,55312,221248
+130,2025-10-31,Keyboard,Accessories,Coimbatore,2,1208,2416
+131,2025-10-17,Mouse,Accessories,Coimbatore,1,1011,1011
+132,2025-02-05,Tablet,Electronics,Madurai,5,18826,94130
+133,2025-08-04,Monitor,Electronics,Chennai,4,11716,46864
+134,2025-11-22,Tablet,Electronics,Madurai,4,18948,75792
+135,2025-04-01,Headphones,Accessories,Salem,5,3332,16660
+136,2025-08-27,Mouse,Accessories,Trichy,4,1797,7188
+137,2025-05-06,Mouse,Accessories,Madurai,1,871,871
+138,2025-08-26,Smart Watch,Accessories,Erode,5,5749,28745
+139,2025-01-15,Tablet,Electronics,Madurai,4,18165,72660
+140,2025-04-19,Headphones,Accessories,Trichy,3,2529,7587
+141,2025-11-02,Monitor,Electronics,Bangalore,3,12638,37914
+142,2025-02-13,Laptop,Electronics,Erode,2,55974,111948
+143,2025-10-12,Tablet,Electronics,Trichy,2,18914,37828
+144,2025-08-18,Smart Watch,Accessories,Trichy,1,4690,4690
+145,2025-07-27,Mouse,Accessories,Erode,2,927,1854
+146,2025-10-11,Monitor,Electronics,Trichy,5,12204,61020
+147,2025-06-30,Tablet,Electronics,Madurai,4,18054,72216
+148,2025-04-29,Mouse,Accessories,Bangalore,1,1777,1777
+149,2025-03-03,Keyboard,Accessories,Madurai,5,2413,12065
+150,2025-04-21,Headphones,Accessories,Erode,4,2566,10264
+151,2025-04-10,Mouse,Accessories,Coimbatore,3,765,2295
+152,2025-06-04,Monitor,Electronics,Tirupur,1,12950,12950
+153,2025-01-24,Headphones,Accessories,Bangalore,1,3133,3133
+154,2025-11-23,Mouse,Accessories,Tirupur,4,510,2040
+155,2025-08-29,Laptop,Electronics,Bangalore,4,55402,221608
+156,2025-01-27,Monitor,Electronics,Tirupur,3,12478,37434
+157,2025-07-25,Mobile Phone,Electronics,Coimbatore,4,24651,98604
+158,2025-03-18,Laptop,Electronics,Tirupur,5,55122,275610
+159,2025-03-02,Mobile Phone,Electronics,Erode,5,25352,126760
+160,2025-08-19,Keyboard,Accessories,Salem,4,1608,6432
+161,2025-10-19,Tablet,Electronics,Bangalore,5,17623,88115
+162,2025-11-17,Mobile Phone,Electronics,Erode,2,25041,50082
+163,2025-05-03,Mobile Phone,Electronics,Tirupur,2,25630,51260
+164,2025-01-02,Mobile Phone,Electronics,Tirupur,4,25422,101688
+165,2025-01-17,Smart Watch,Accessories,Bangalore,2,5090,10180
+166,2025-02-06,Mouse,Accessories,Trichy,2,841,1682
+167,2025-02-28,Keyboard,Accessories,Salem,5,1460,7300
+168,2025-03-14,Headphones,Accessories,Bangalore,1,2122,2122
+169,2025-11-01,Headphones,Accessories,Bangalore,5,2591,12955
+170,2025-08-28,Smart Watch,Accessories,Coimbatore,3,5933,17799
+171,2025-09-14,Tablet,Electronics,Bangalore,5,18511,92555
+172,2025-11-03,Smart Watch,Accessories,Coimbatore,1,5384,5384
+173,2025-01-14,Monitor,Electronics,Bangalore,1,11968,11968
+174,2025-10-23,Laptop,Electronics,Bangalore,1,54858,54858
+175,2025-05-23,Smart Watch,Accessories,Trichy,2,5698,11396
+176,2025-02-16,Tablet,Electronics,Trichy,4,18212,72848
+177,2025-06-14,Tablet,Electronics,Madurai,1,17829,17829
+178,2025-12-22,Monitor,Electronics,Salem,4,12090,48360
+179,2025-08-21,Tablet,Electronics,Chennai,1,18144,18144
+180,2025-03-01,Mouse,Accessories,Madurai,4,1353,5412
+181,2025-07-31,Laptop,Electronics,Trichy,1,54884,54884
+182,2025-11-17,Monitor,Electronics,Trichy,4,11605,46420
+183,2025-10-09,Keyboard,Accessories,Bangalore,2,1589,3178
+184,2025-03-04,Smart Watch,Accessories,Trichy,1,5790,5790
+185,2025-06-09,Keyboard,Accessories,Tirupur,5,1028,5140
+186,2025-04-26,Tablet,Electronics,Coimbatore,1,18445,18445
+187,2025-09-13,Mobile Phone,Electronics,Tirupur,3,25542,76626
+188,2025-09-05,Mouse,Accessories,Salem,4,799,3196
+189,2025-07-16,Smart Watch,Accessories,Tirupur,2,5727,11454
+190,2025-05-22,Headphones,Accessories,Coimbatore,4,2696,10784
+191,2025-05-25,Mouse,Accessories,Chennai,3,1502,4506
+192,2025-08-17,Smart Watch,Accessories,Tirupur,5,5491,27455
+193,2025-10-10,Monitor,Electronics,Madurai,5,12272,61360
+194,2025-04-07,Smart Watch,Accessories,Madurai,2,5671,11342
+195,2025-07-30,Tablet,Electronics,Erode,1,18151,18151
+196,2025-07-17,Smart Watch,Accessories,Salem,2,5514,11028
+197,2025-09-15,Laptop,Electronics,Tirupur,5,55179,275895
+198,2025-02-21,Mobile Phone,Electronics,Trichy,5,25435,127175
+199,2025-07-29,Laptop,Electronics,Tirupur,2,54653,109306
+200,2025-06-23,Smart Watch,Accessories,Bangalore,5,5918,29590
+201,2025-06-18,Tablet,Electronics,Coimbatore,5,18278,91390
+202,2025-10-05,Monitor,Electronics,Trichy,1,12764,12764
+203,2025-11-20,Mobile Phone,Electronics,Erode,3,24965,74895
+204,2025-02-20,Mobile Phone,Electronics,Salem,1,25408,25408
+205,2025-01-15,Headphones,Accessories,Bangalore,1,2664,2664
+206,2025-07-03,Laptop,Electronics,Bangalore,3,55382,166146
+207,2025-09-29,Headphones,Accessories,Erode,4,3159,12636
+208,2025-03-31,Headphones,Accessories,Tirupur,1,3248,3248
+209,2025-09-12,Tablet,Electronics,Erode,5,17793,88965
+210,2025-11-23,Keyboard,Accessories,Trichy,3,1941,5823
+211,2025-08-27,Mouse,Accessories,Chennai,3,1687,5061
+212,2025-08-15,Headphones,Accessories,Coimbatore,3,3203,9609
+213,2025-12-20,Mouse,Accessories,Salem,3,1235,3705
+214,2025-07-16,Mouse,Accessories,Erode,4,518,2072
+215,2025-10-20,Keyboard,Accessories,Salem,3,2177,6531
+216,2025-01-12,Mouse,Accessories,Bangalore,4,862,3448
+217,2025-11-07,Laptop,Electronics,Chennai,4,55086,220344
+218,2025-04-23,Keyboard,Accessories,Madurai,2,2271,4542
+219,2025-11-18,Mouse,Accessories,Tirupur,1,1585,1585
+220,2025-08-14,Laptop,Electronics,Bangalore,1,55686,55686
+221,2025-02-16,Monitor,Electronics,Tirupur,3,12169,36507
+222,2025-04-13,Tablet,Electronics,Tirupur,2,18604,37208
+223,2025-03-26,Monitor,Electronics,Bangalore,3,12486,37458
+224,2025-02-28,Mouse,Accessories,Madurai,4,454,1816
+225,2025-12-13,Headphones,Accessories,Erode,4,3141,12564
+226,2025-07-22,Monitor,Electronics,Coimbatore,1,12041,12041
+227,2025-07-08,Mobile Phone,Electronics,Trichy,3,25697,77091
+228,2025-02-25,Tablet,Electronics,Madurai,2,18465,36930
+229,2025-11-09,Laptop,Electronics,Madurai,2,55826,111652
+230,2025-12-25,Mobile Phone,Electronics,Trichy,3,25829,77487
+231,2025-03-13,Tablet,Electronics,Coimbatore,1,17576,17576
+232,2025-03-01,Mouse,Accessories,Trichy,1,780,780
+233,2025-08-21,Headphones,Accessories,Salem,3,3373,10119
+234,2025-08-01,Tablet,Electronics,Tirupur,1,18502,18502
+235,2025-01-17,Tablet,Electronics,Bangalore,3,17944,53832
+236,2025-05-01,Smart Watch,Accessories,Trichy,3,4703,14109
+237,2025-02-01,Monitor,Electronics,Madurai,4,12065,48260
+238,2025-08-21,Keyboard,Accessories,Coimbatore,1,2357,2357
+239,2025-01-26,Keyboard,Accessories,Chennai,3,1498,4494
+240,2025-02-05,Headphones,Accessories,Erode,5,2424,12120
+241,2025-06-18,Keyboard,Accessories,Erode,2,2220,4440
+242,2025-03-16,Laptop,Electronics,Bangalore,2,55606,111212
+243,2025-02-26,Mouse,Accessories,Tirupur,1,569,569
+244,2025-05-02,Laptop,Electronics,Madurai,5,55163,275815
+245,2025-05-16,Laptop,Electronics,Tirupur,1,54759,54759
+246,2025-02-02,Tablet,Electronics,Coimbatore,4,18418,73672
+247,2025-08-20,Monitor,Electronics,Coimbatore,5,11953,59765
+248,2025-08-23,Laptop,Electronics,Bangalore,1,54624,54624
+249,2025-08-07,Smart Watch,Accessories,Salem,1,5504,5504
+250,2025-02-11,Smart Watch,Accessories,Coimbatore,3,5745,17235
+251,2025-03-06,Headphones,Accessories,Coimbatore,3,3278,9834
+252,2025-11-02,Monitor,Electronics,Salem,5,12103,60515
+253,2025-02-20,Smart Watch,Accessories,Salem,1,5840,5840
+254,2025-08-20,Keyboard,Accessories,Salem,2,1847,3694
+255,2025-07-24,Monitor,Electronics,Trichy,4,12994,51976
+256,2025-08-07,Mobile Phone,Electronics,Madurai,3,25862,77586
+257,2025-03-20,Mouse,Accessories,Madurai,4,437,1748
+258,2025-02-17,Mobile Phone,Electronics,Coimbatore,4,24697,98788
+259,2025-10-12,Monitor,Electronics,Tirupur,1,12701,12701
+260,2025-07-30,Monitor,Electronics,Coimbatore,3,12862,38586
+261,2025-05-28,Tablet,Electronics,Chennai,5,18139,90695
+262,2025-10-23,Monitor,Electronics,Coimbatore,5,11935,59675
+263,2025-04-25,Headphones,Accessories,Trichy,1,2717,2717
+264,2025-05-23,Monitor,Electronics,Coimbatore,5,11963,59815
+265,2025-11-08,Tablet,Electronics,Chennai,3,17559,52677
+266,2025-12-26,Headphones,Accessories,Bangalore,3,2695,8085
+267,2025-04-03,Monitor,Electronics,Chennai,2,12659,25318
+268,2025-03-14,Tablet,Electronics,Coimbatore,1,17687,17687
+269,2025-08-03,Keyboard,Accessories,Salem,4,1698,6792
+270,2025-06-09,Headphones,Accessories,Madurai,3,3162,9486
+271,2025-03-21,Mobile Phone,Electronics,Chennai,2,25765,51530
+272,2025-05-20,Laptop,Electronics,Coimbatore,4,55855,223420
+273,2025-11-07,Tablet,Electronics,Trichy,4,18348,73392
+274,2025-09-20,Mouse,Accessories,Erode,1,1006,1006
+275,2025-05-26,Tablet,Electronics,Coimbatore,5,18496,92480
+276,2025-04-23,Mouse,Accessories,Chennai,4,1527,6108
+277,2025-04-15,Laptop,Electronics,Chennai,3,54932,164796
+278,2025-05-29,Headphones,Accessories,Bangalore,3,2245,6735
+279,2025-08-09,Laptop,Electronics,Trichy,2,54764,109528
+280,2025-09-14,Tablet,Electronics,Erode,5,18868,94340
+281,2025-07-23,Monitor,Electronics,Coimbatore,1,12393,12393
+282,2025-02-09,Laptop,Electronics,Trichy,3,55679,167037
+283,2025-12-30,Tablet,Electronics,Salem,4,18092,72368
+284,2025-01-11,Mobile Phone,Electronics,Salem,3,24851,74553
+285,2025-02-15,Smart Watch,Accessories,Madurai,4,4716,18864
+286,2025-10-29,Keyboard,Accessories,Salem,4,2073,8292
+287,2025-06-08,Mobile Phone,Electronics,Salem,3,24953,74859
+288,2025-02-09,Monitor,Electronics,Tirupur,5,12796,63980
+289,2025-06-28,Mobile Phone,Electronics,Erode,3,25989,77967
+290,2025-02-22,Headphones,Accessories,Erode,2,2524,5048
+291,2025-11-05,Keyboard,Accessories,Tirupur,2,2342,4684
+292,2025-11-18,Mobile Phone,Electronics,Tirupur,4,25450,101800
+293,2025-11-18,Smart Watch,Accessories,Madurai,3,4809,14427
+294,2025-08-29,Smart Watch,Accessories,Coimbatore,4,5793,23172
+295,2025-10-30,Mouse,Accessories,Bangalore,1,1020,1020
+296,2025-08-25,Mobile Phone,Electronics,Bangalore,4,24577,98308
+297,2025-05-27,Laptop,Electronics,Madurai,1,55820,55820
+298,2025-08-25,Mobile Phone,Electronics,Salem,5,25635,128175
+299,2025-10-20,Laptop,Electronics,Trichy,2,55158,110316
+300,2025-02-01,Smart Watch,Accessories,Tirupur,4,4711,18844
+301,2025-09-16,Monitor,Electronics,Coimbatore,2,11580,23160
+302,2025-08-13,Keyboard,Accessories,Trichy,5,2070,10350
+303,2025-07-10,Headphones,Accessories,Madurai,3,2793,8379
+304,2025-12-14,Tablet,Electronics,Madurai,5,17607,88035
+305,2025-06-18,Monitor,Electronics,Coimbatore,1,12642,12642
+306,2025-05-10,Tablet,Electronics,Bangalore,5,17807,89035
+307,2025-10-26,Monitor,Electronics,Coimbatore,2,12216,24432
+308,2025-03-08,Mouse,Accessories,Salem,5,1751,8755
+309,2025-10-14,Mobile Phone,Electronics,Bangalore,4,25817,103268
+310,2025-12-10,Monitor,Electronics,Tirupur,5,11691,58455
+311,2025-01-10,Tablet,Electronics,Madurai,3,18132,54396
+312,2025-06-24,Headphones,Accessories,Erode,4,2393,9572
+313,2025-03-21,Keyboard,Accessories,Tirupur,1,1605,1605
+314,2025-12-05,Mobile Phone,Electronics,Chennai,3,25765,77295
+315,2025-03-20,Headphones,Accessories,Salem,2,2370,4740
+316,2025-01-23,Headphones,Accessories,Trichy,4,2746,10984
+317,2025-11-09,Keyboard,Accessories,Trichy,3,1919,5757
+318,2025-06-08,Keyboard,Accessories,Erode,4,1397,5588
+319,2025-08-25,Monitor,Electronics,Trichy,3,12282,36846
+320,2025-04-13,Tablet,Electronics,Tirupur,5,17783,88915
+321,2025-11-25,Mouse,Accessories,Chennai,4,1060,4240
+322,2025-05-26,Mobile Phone,Electronics,Coimbatore,1,24828,24828
+323,2025-09-20,Mouse,Accessories,Trichy,2,1195,2390
+324,2025-08-19,Mobile Phone,Electronics,Erode,3,24554,73662
+325,2025-07-22,Tablet,Electronics,Chennai,5,18265,91325
+326,2025-02-11,Keyboard,Accessories,Salem,3,1459,4377
+327,2025-02-20,Laptop,Electronics,Madurai,3,54799,164397
+328,2025-05-27,Headphones,Accessories,Chennai,4,3425,13700
+329,2025-08-18,Headphones,Accessories,Trichy,5,2010,10050
+330,2025-05-12,Mobile Phone,Electronics,Chennai,2,24806,49612
+331,2025-05-28,Tablet,Electronics,Coimbatore,2,18116,36232
+332,2025-05-03,Mobile Phone,Electronics,Chennai,4,25808,103232
+333,2025-02-26,Smart Watch,Accessories,Coimbatore,4,5722,22888
+334,2025-03-15,Laptop,Electronics,Erode,3,55379,166137
+335,2025-05-04,Laptop,Electronics,Madurai,5,55353,276765
+336,2025-09-26,Headphones,Accessories,Coimbatore,3,2138,6414
+337,2025-08-29,Laptop,Electronics,Salem,1,55801,55801
+338,2025-05-10,Tablet,Electronics,Madurai,1,18231,18231
+339,2025-05-04,Mobile Phone,Electronics,Madurai,1,25691,25691
+340,2025-01-23,Monitor,Electronics,Tirupur,3,12618,37854
+341,2025-12-17,Monitor,Electronics,Tirupur,4,12924,51696
+342,2025-03-11,Smart Watch,Accessories,Tirupur,1,5966,5966
+343,2025-05-31,Smart Watch,Accessories,Chennai,2,4589,9178
+344,2025-06-11,Keyboard,Accessories,Chennai,3,2055,6165
+345,2025-05-10,Tablet,Electronics,Trichy,1,18824,18824
+346,2025-07-02,Keyboard,Accessories,Bangalore,1,2342,2342
+347,2025-03-05,Monitor,Electronics,Bangalore,3,12394,37182
+348,2025-07-17,Tablet,Electronics,Trichy,3,17882,53646
+349,2025-07-08,Smart Watch,Accessories,Trichy,5,5046,25230
+350,2025-02-10,Mobile Phone,Electronics,Salem,4,25733,102932
+351,2025-06-14,Headphones,Accessories,Bangalore,1,2163,2163
+352,2025-06-06,Monitor,Electronics,Bangalore,4,12734,50936
+353,2025-12-20,Tablet,Electronics,Tirupur,4,18219,72876
+354,2025-06-30,Smart Watch,Accessories,Chennai,5,5390,26950
+355,2025-02-08,Mouse,Accessories,Chennai,4,1044,4176
+356,2025-03-15,Headphones,Accessories,Chennai,5,3388,16940
+357,2025-03-06,Smart Watch,Accessories,Chennai,1,4983,4983
+358,2025-07-16,Monitor,Electronics,Madurai,5,11566,57830
+359,2025-07-09,Headphones,Accessories,Trichy,3,2909,8727
+360,2025-09-29,Mobile Phone,Electronics,Tirupur,3,25315,75945
+361,2025-05-08,Monitor,Electronics,Bangalore,1,11553,11553
+362,2025-09-23,Headphones,Accessories,Trichy,4,3150,12600
+363,2025-05-14,Mobile Phone,Electronics,Bangalore,4,24939,99756
+364,2025-04-13,Mouse,Accessories,Trichy,1,577,577
+365,2025-03-30,Mobile Phone,Electronics,Trichy,4,24679,98716
+366,2025-12-30,Monitor,Electronics,Madurai,1,12626,12626
+367,2025-03-22,Mouse,Accessories,Bangalore,2,1040,2080
+368,2025-04-13,Keyboard,Accessories,Coimbatore,2,1484,2968
+369,2025-07-04,Smart Watch,Accessories,Chennai,5,5672,28360
+370,2025-10-10,Monitor,Electronics,Trichy,2,12753,25506
+371,2025-06-08,Mobile Phone,Electronics,Coimbatore,4,25968,103872
+372,2025-07-29,Smart Watch,Accessories,Salem,5,4651,23255
+373,2025-11-25,Headphones,Accessories,Madurai,1,2921,2921
+374,2025-03-07,Smart Watch,Accessories,Madurai,5,5810,29050
+375,2025-08-10,Headphones,Accessories,Tirupur,5,2113,10565
+376,2025-06-05,Mobile Phone,Electronics,Tirupur,2,24831,49662
+377,2025-06-27,Monitor,Electronics,Erode,5,12081,60405
+378,2025-04-11,Mobile Phone,Electronics,Bangalore,5,25062,125310
+379,2025-11-11,Headphones,Accessories,Bangalore,5,2191,10955
+380,2025-03-29,Headphones,Accessories,Tirupur,5,3475,17375
+381,2025-01-15,Monitor,Electronics,Chennai,1,11593,11593
+382,2025-10-20,Mouse,Accessories,Erode,4,1565,6260
+383,2025-11-18,Laptop,Electronics,Trichy,5,55093,275465
+384,2025-05-06,Mouse,Accessories,Trichy,4,909,3636
+385,2025-12-19,Smart Watch,Accessories,Coimbatore,1,4823,4823
+386,2025-09-05,Smart Watch,Accessories,Salem,4,4917,19668
+387,2025-06-10,Monitor,Electronics,Tirupur,3,12207,36621
+388,2025-07-09,Tablet,Electronics,Tirupur,5,18650,93250
+389,2025-05-04,Mobile Phone,Electronics,Madurai,4,24750,99000
+390,2025-05-07,Mouse,Accessories,Trichy,2,498,996
+391,2025-07-16,Laptop,Electronics,Bangalore,5,55356,276780
+392,2025-06-17,Keyboard,Accessories,Tirupur,5,2476,12380
+393,2025-03-23,Monitor,Electronics,Erode,4,12554,50216
+394,2025-06-07,Smart Watch,Accessories,Trichy,4,4547,18188
+395,2025-09-16,Mobile Phone,Electronics,Salem,4,24993,99972
+396,2025-01-25,Keyboard,Accessories,Madurai,1,1576,1576
+397,2025-05-27,Smart Watch,Accessories,Trichy,5,4516,22580
+398,2025-03-10,Mobile Phone,Electronics,Salem,3,25989,77967
+399,2025-07-07,Monitor,Electronics,Salem,1,12320,12320
+400,2025-07-05,Laptop,Electronics,Erode,5,55091,275455
+401,2025-09-16,Mobile Phone,Electronics,Salem,4,25626,102504
+402,2025-03-07,Mouse,Accessories,Coimbatore,1,1106,1106
+403,2025-10-13,Monitor,Electronics,Madurai,3,11795,35385
+404,2025-09-14,Keyboard,Accessories,Salem,1,1092,1092
+405,2025-06-20,Laptop,Electronics,Tirupur,4,55563,222252
+406,2025-11-07,Smart Watch,Accessories,Tirupur,5,4786,23930
+407,2025-03-25,Monitor,Electronics,Madurai,4,12762,51048
+408,2025-09-17,Mouse,Accessories,Madurai,5,1390,6950
+409,2025-09-01,Smart Watch,Accessories,Bangalore,1,5254,5254
+410,2025-08-02,Monitor,Electronics,Coimbatore,5,12130,60650
+411,2025-05-16,Laptop,Electronics,Trichy,5,55682,278410
+412,2025-10-26,Keyboard,Accessories,Chennai,4,1349,5396
+413,2025-12-15,Tablet,Electronics,Tirupur,2,17564,35128
+414,2025-01-10,Mobile Phone,Electronics,Erode,4,25142,100568
+415,2025-07-31,Tablet,Electronics,Tirupur,2,18340,36680
+416,2025-12-28,Smart Watch,Accessories,Chennai,2,5562,11124
+417,2025-12-06,Keyboard,Accessories,Madurai,4,2076,8304
+418,2025-03-30,Tablet,Electronics,Madurai,4,18591,74364
+419,2025-12-13,Monitor,Electronics,Madurai,3,12749,38247
+420,2025-05-07,Smart Watch,Accessories,Erode,3,5642,16926
+421,2025-06-02,Mouse,Accessories,Erode,3,1743,5229
+422,2025-06-12,Keyboard,Accessories,Trichy,4,1714,6856
+423,2025-03-04,Mouse,Accessories,Bangalore,5,1685,8425
+424,2025-06-26,Tablet,Electronics,Salem,2,18094,36188
+425,2025-02-10,Laptop,Electronics,Bangalore,3,55405,166215
+426,2025-04-20,Mouse,Accessories,Trichy,2,1403,2806
+427,2025-03-12,Mouse,Accessories,Bangalore,1,1560,1560
+428,2025-01-26,Keyboard,Accessories,Erode,5,1462,7310
+429,2025-02-21,Keyboard,Accessories,Chennai,4,1676,6704
+430,2025-12-15,Smart Watch,Accessories,Coimbatore,2,4510,9020
+431,2025-12-01,Headphones,Accessories,Salem,4,2977,11908
+432,2025-06-14,Keyboard,Accessories,Bangalore,3,2322,6966
+433,2025-11-30,Laptop,Electronics,Coimbatore,5,54975,274875
+434,2025-08-02,Laptop,Electronics,Tirupur,2,54574,109148
+435,2025-04-06,Tablet,Electronics,Trichy,3,17576,52728
+436,2025-10-18,Laptop,Electronics,Bangalore,5,54719,273595
+437,2025-08-21,Monitor,Electronics,Bangalore,5,12573,62865
+438,2025-09-16,Smart Watch,Accessories,Tirupur,4,5058,20232
+439,2025-06-19,Keyboard,Accessories,Coimbatore,2,2497,4994
+440,2025-04-06,Smart Watch,Accessories,Bangalore,1,5190,5190
+441,2025-03-31,Mouse,Accessories,Erode,5,1608,8040
+442,2025-09-21,Tablet,Electronics,Salem,3,17677,53031
+443,2025-04-05,Tablet,Electronics,Coimbatore,2,18477,36954
+444,2025-01-04,Monitor,Electronics,Erode,3,12285,36855
+445,2025-05-17,Keyboard,Accessories,Trichy,3,1618,4854
+446,2025-12-01,Laptop,Electronics,Bangalore,3,55918,167754
+447,2025-12-08,Keyboard,Accessories,Chennai,1,1953,1953
+448,2025-07-27,Mouse,Accessories,Tirupur,5,1740,8700
+449,2025-11-24,Mouse,Accessories,Coimbatore,3,1052,3156
+450,2025-03-10,Keyboard,Accessories,Erode,4,1313,5252
+451,2025-08-01,Smart Watch,Accessories,Madurai,5,5464,27320
+452,2025-12-15,Keyboard,Accessories,Erode,5,1167,5835
+453,2025-02-09,Smart Watch,Accessories,Madurai,5,4729,23645
+454,2025-10-21,Laptop,Electronics,Erode,5,54806,274030
+455,2025-09-24,Headphones,Accessories,Madurai,4,2238,8952
+456,2025-02-16,Keyboard,Accessories,Trichy,5,1912,9560
+457,2025-03-09,Laptop,Electronics,Trichy,5,55350,276750
+458,2025-10-14,Smart Watch,Accessories,Chennai,4,5877,23508
+459,2025-07-22,Mouse,Accessories,Chennai,3,306,918
+460,2025-01-24,Keyboard,Accessories,Coimbatore,4,1705,6820
+461,2025-02-05,Mobile Phone,Electronics,Chennai,4,24564,98256
+462,2025-04-03,Mouse,Accessories,Salem,2,1613,3226
+463,2025-07-15,Tablet,Electronics,Madurai,4,18273,73092
+464,2025-12-16,Tablet,Electronics,Coimbatore,5,17772,88860
+465,2025-04-02,Monitor,Electronics,Coimbatore,5,12304,61520
+466,2025-01-02,Headphones,Accessories,Erode,1,2611,2611
+467,2025-09-30,Smart Watch,Accessories,Salem,4,4970,19880
+468,2025-06-27,Keyboard,Accessories,Trichy,2,1564,3128
+469,2025-01-17,Keyboard,Accessories,Coimbatore,4,2259,9036
+470,2025-04-16,Laptop,Electronics,Erode,1,54706,54706
+471,2025-11-03,Laptop,Electronics,Trichy,1,55001,55001
+472,2025-08-13,Laptop,Electronics,Salem,2,55605,111210
+473,2025-03-13,Keyboard,Accessories,Chennai,5,1592,7960
+474,2025-10-23,Keyboard,Accessories,Madurai,5,2377,11885
+475,2025-06-04,Monitor,Electronics,Erode,2,12852,25704
+476,2025-06-03,Keyboard,Accessories,Salem,3,1124,3372
+477,2025-10-12,Headphones,Accessories,Salem,4,2096,8384
+478,2025-09-26,Monitor,Electronics,Salem,3,12926,38778
+479,2025-03-18,Tablet,Electronics,Salem,3,18270,54810
+480,2025-05-04,Headphones,Accessories,Trichy,2,2615,5230
+481,2025-01-30,Headphones,Accessories,Trichy,5,2845,14225
+482,2025-07-18,Tablet,Electronics,Tirupur,2,18022,36044
+483,2025-11-28,Keyboard,Accessories,Madurai,1,1921,1921
+484,2025-10-02,Monitor,Electronics,Coimbatore,2,11605,23210
+485,2025-12-11,Mouse,Accessories,Salem,5,1534,7670
+486,2025-04-07,Laptop,Electronics,Coimbatore,5,55983,279915
+487,2025-04-17,Keyboard,Accessories,Trichy,3,1620,4860
+488,2025-04-08,Laptop,Electronics,Erode,1,55480,55480
+489,2025-07-23,Keyboard,Accessories,Erode,2,2130,4260
+490,2025-07-14,Monitor,Electronics,Bangalore,4,12592,50368
+491,2025-05-14,Monitor,Electronics,Bangalore,3,12550,37650
+492,2025-02-20,Smart Watch,Accessories,Trichy,4,5155,20620
+493,2025-06-10,Keyboard,Accessories,Madurai,4,1093,4372
+494,2025-01-09,Keyboard,Accessories,Tirupur,3,2133,6399
+495,2025-03-20,Tablet,Electronics,Bangalore,2,18175,36350
+496,2025-10-19,Keyboard,Accessories,Salem,2,2022,4044
+497,2025-09-08,Monitor,Electronics,Bangalore,4,12443,49772
+498,2025-03-28,Headphones,Accessories,Madurai,2,3475,6950
+499,2025-10-05,Smart Watch,Accessories,Tirupur,1,5573,5573
+500,2025-12-09,Laptop,Electronics,Coimbatore,1,54513,54513
